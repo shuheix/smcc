@@ -1,0 +1,3 @@
+def hoge
+  "bar"
+end
