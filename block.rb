@@ -4,5 +4,4 @@ def block(n)
     end
 end
 
-block(5)
 block(10)
