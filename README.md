@@ -2,3 +2,6 @@
 
 # お試しpush
 c
+
+readme
+readme
